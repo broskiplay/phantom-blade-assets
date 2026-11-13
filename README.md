@@ -7,6 +7,6 @@
 - Карты: `weeping-creek-valley` (Долина Плачущего ручья), `crimson-forest` (Багровый лес), `village-of-lu` (Деревня Лу),
   `pangzhen` (Панчжэнь), `the-mandates-encampment` (Лагерь Союза), `meigu-lake` (Озеро Мэйгу), `mountain-of-imprisonment` (Гора Заточения),
   `mount-soulrend` (Гора Разбитых Душ)
-- `popups/<id>.webp` — картинки окон меток (640 px по ширине, WebP q80)
+- `popups/<id>.webp` — картинки окон меток (1280 px по ширине, WebP q90)
 
 Тайлы и картинки меток — с [mapgenie.io](https://mapgenie.io/phantom-blade-zero/maps/weeping-creek-valley) (тайлы перекодированы из JPEG в WebP).
